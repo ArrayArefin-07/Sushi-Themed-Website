@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "sushi",
+		"path": "."
+	},
+	{
+		"name": "assets",
+		"path": "../../Downloads/sushi_assets/assets"
+	}
+],
+  "settings": {}
+}
